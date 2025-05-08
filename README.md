@@ -1,51 +1,43 @@
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+Here you will see Updates of software application information and about Lav's in filled of Taekwondo, Karate and software, Website, AI and many upcoming projects in under development.
 
 ## Welcome
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
+About Lav's biography
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
+Lav Kumar – Indian Taekwondo Athlete
 
-In this exercise, you will:
+Early Life and Background: Lav Kumar (born May 12, 2009) is a youth martial artist from Arrah in Bhojpur district, Bihar.  He began training in combat sports at age six, initially in karate.  By his early teens he had earned a blue belt in karate and later focused on Taekwondo, achieving a green belt.  His profile (e.g. on the CricHeroes platform) notes his passion for Taekwondo from a young age and describes him as a “talented young Taekwondo player from Arrah, Bhojpur”.  Lav currently trains and competes out of Patna, Bihar.
 
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
+Karate Career: Alongside Taekwondo, Lav Kumar trained in karate and achieved notable success.  According to available reports, he won two gold medals and three silver medals in karate tournaments during his early training years.  By 2019 he had attained a brown belt in karate.  These achievements in karate laid the foundation for his later Taekwondo career.
 
-### How to start this exercise
+Taekwondo Career and Achievements: Lav Kumar quickly made his mark in Taekwondo competitions.  He has earned multiple medals at state- and national-level events.  Notably, he won silver medals at the national FIT India Taekwondo Championships in 2021 and again in 2023.  In 2023 he also took silver at the Varanasi Taekwondo Championship (a CBSE-affiliated event).  At the state level, Lav won a gold medal in the cadet boys category at a Taekwondo tournament held during the Aligarh sports festival in January 2022. These and other podium finishes are detailed in regional media; for example, Live Hindustan reported him as a gold-medalist among the cadet boys at the Aligarh event.
 
-1. Right-click **Copy Exercise** and open the link in a new tab.
+Medals and Titles:
 
-   <a id="copy-exercise" href="https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-008000" height="25pt"/>
-   </a>
+Silver – FIT India Taekwondo Championships 2021 (national)
 
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
+Gold – Cadet (boys) Taekwondo, Aligarh Sports Festival, Jan 2022
 
-3. After your new repository is created, wait about 20 seconds for the exercise to be prepared and buttons updated. You will continue working from your copy of the exercise.
-   - The **Copy Exercise** button will deactivate, changing to gray.
-   - The **Start Exercise** button will activate, changing to green.
-   - You will likely need to refresh the page.
+Silver – FIT India Taekwondo Championships 2023 (national)
 
-4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
+Silver – Varanasi Taekwondo Championship 2023 (CBSE East Zone)
 
-   <a id="start-exercise">
-      <img src="https://img.shields.io/badge/🚀_Start_Exercise-AAA" height="25pt"/>
-   </a>
+Additional: A District-level yellow-belt Taekwondo trophy (Nov 2022) (as noted on his personal blog).
+In karate, his titles include two gold and three silver medals (no official sources, but reported in his media profile).
 
-> [!IMPORTANT]
-> The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
 
----
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Competition History: Lav Kumar has participated in state and national Taekwondo circuits every year since about 2021.  His competition timeline includes age-group events and school contests, as summarized above.  (He competes in the cadet/sub-junior age groups and up to light-weight divisions.)  Detailed results beyond the highlights listed above are not publicly published, but his official profiles describe him as a “district player” in Taekwondo, indicating participation in regional/state championships.
+
+Other Interests: According to his own profiles, Lav is also active in academics and technology. He is described as a student and a self-taught website/app developer.  His Medium biography notes that he balances sports with software development, envisioning ways to combine tech with Taekwondo training. (While not directly part of his sports record, this reflects his extracurricular interests.)
+
+Media Coverage and Profiles: Lav’s achievements have been noted on social media and local news.  A Hindi-language sports article (Live Hindustan) specifically named him as a gold-medal winner in the 2022 Aligarh competition.  His own social-media and blogging profiles (Medium and X/Twitter) document his wins and biographical details.  For example, his Medium posts recount his FIT India medals and local tournament successes.  The CricHeroes sports platform also features a profile for “Lav Kumar, Taekwondo player,” summarizing his background and list of medals.
+
+Recent Updates (2023–2025): As of late 2023, Lav Kumar remains an active junior Taekwondo competitor.  His most recent major results are the silver medals at FIT India 2023 and the Varanasi championship.  (No news of 2024–2025 competitions has been published in major outlets yet.)  His social media indicates he continues training in Patna.  Lav’s story has been highlighted as an inspiration to young athletes, emphasizing his dedication and versatility.
+
+Summary: In summary, Lav Kumar is a rising teenage Taekwondo athlete from Bihar with multiple state- and national-level medals.  His bio notes a long involvement in martial arts since childhood.  Key career milestones include national FIT India Championship silver medals (2021, 2023) and a 2022 state-level gold.  He also has a strong background in karate.  Details of his training (coaches or club) are not widely reported, but he is recognized by local Taekwondo authorities.  His achievements and profile are documented via regional news and online platforms.
+
+Sources: News and profiles of Lav Kumar’s Taekwondo career are cited above. For example, Live Hindustan covered his 2022 gold-medal win, and the CricHeroes site and his personal Medium pages summarize his FIT India medals and other accolades.
+
